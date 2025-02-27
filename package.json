@@ -1,13 +1,13 @@
 {
-  "homepage":"http://nschandunu.github.io/portfolio",
   "name": "react-portfolio",
+  "homepage": "https://nschandunu.github.io/portfolio",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
