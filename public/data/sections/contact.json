@@ -1,0 +1,126 @@
+{
+    "locales": {
+        "en": {
+            "title": "Contact",
+            "title_long_prefix": "Feel free to",
+            "title_long": "**Contact** Me"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "contact_form",
+            "component": "ArticleContactForm",
+            "config": {},
+            "locales": {
+                "en": {"title": "Send me a **message**"}
+            },
+
+            "items": null
+        },
+
+        {
+            "id": "contact_list",
+            "component": "ArticleGrid",
+            "config": {
+                "format": "grid"
+            },
+            "locales": {
+                "en": {"title": "Or if you **prefer**..."}
+            },
+
+            "items": [
+
+                {
+                    "value": "contact@nschandunu.com",
+                    "links": [
+                        {"href": "mailto:contact@nschandunu.com"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-envelope",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "E-mail"}
+                    }
+                },
+
+                {
+                    "value": "@nschandunu",
+                    "links": [
+                        {"href": "https://www.linkedin.com/in/nschandunu/"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-linkedin",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "Linkedin"}
+                    }
+                },
+
+                {
+                    "value": "Senuka Chandunu",
+                    "links": [
+                        {"href": "http://facebook.com/senuka.07"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-facebook",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "Facebook"}
+                    }
+                },
+                {
+                    "value": "@SenukaX",
+                    "links": [
+                        {"href": "https://x.com/SenukaX"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-x-twitter",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "X"}
+                    }
+                },
+
+                {
+                    "value": "@_senuka.7_",
+                    "links": [
+                        {"href": "http://instagram.com/senuka.07/"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-instagram",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "Instagram"}
+                    }
+                },
+
+
+                {
+                    "value": "SҽNUƙα",
+                    "links": [
+                        {"href": "https://discordapp.com/users/742928961037926450"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-discord",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "Discord"}
+                    }
+                }
+            ]
+        }
+    ]
+}
