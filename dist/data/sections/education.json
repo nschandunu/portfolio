@@ -1,0 +1,101 @@
+{
+    "locales": {
+        "en": {
+            "title": "Education",
+            "title_long_prefix": "This is my",
+            "title_long": "**Educational** Background"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "academic",
+            "component": "ArticleTimeline",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/pictures/place-2.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "01/01/2014",
+                        "end": "12/30/2019"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "GCE **Ordinary Level**",
+                            "info": "Rahula College - Matara",
+                            "text": "",
+                            "tags": ["9A's"]
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": "images/pictures/place-5.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "01/01/2020",
+                        "end": "01/01/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "GCE **Advanced Level**",
+                            "info": "Rahula College - Matara",
+                            "text": "",
+                            "tags": ["Physical Science"]
+                        }
+                    }
+                },
+
+
+                {
+                    "icon": {
+                        "img": "images/pictures/place-6.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "03/01/2024",
+                        "end": "12/30/2027"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**BSc (Hons)** in Computer Science",
+                            "info": "NSBM Green University - Sri Lanka",
+                            "text": "<p>Currently pursuing a Bachelor's degree in Computer Science, focusing on:</p><ul><li>Software Development</li><li>Data Structures, Algorithms & Database</li><li>Web Development</li></ul> <p class='mt-3'>Building practical skills through coursework, projects, and hands-on experience.</p>",
+                            "tags": ["Python", "C" , "C#", "OOP", "Algorithms", "Data Structures" , "SQL" , "WEB"]
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": "images/pictures/place-4.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "08/01/2025",
+                        "end": "12/30/2027"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**BSc (Hons)** in Computer Science",
+                            "info": "University of Plymouth - UK",
+                            "text": "<p>Continuing my Bachelor's degree in Computer Science, focusing on advanced topics such as:</p> <ul><li>Full Stack Development</li><li>HCI & Machine Learning</li><li>.NET & Mobile Application Development</li></ul> <p class='mt-3'>Enhancing expertise in software development, data analytics, AI, and cutting-edge technologies.</p>",
+                            "tags": ["Deep Learning", "Computer Vision", "AI", "Machine Learning" , "Big Data" , ".NET"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
