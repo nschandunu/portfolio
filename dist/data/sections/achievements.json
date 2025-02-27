@@ -1,0 +1,176 @@
+{
+    "locales": {
+        "en": {
+            "title": "Awards",
+            "title_menu": "Achievements",
+            "title_long_prefix": "Here are my",
+            "title_long": "Career **Achievements**"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "certifications",
+            "component": "ArticleCards",
+            "config": {},
+            "locales": {
+                "en": { "title": "Certifications" }
+            },
+
+            "items": [
+                {
+                    "icon": {                       
+                        "img": "images/pictures/person-3.png",
+                        "fa": "",
+                        "faColors": {"bg": "#326CE5", "fill": "#EEE"}
+                    },
+                    "dates": {
+                        "start": "",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://google.com" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "****",
+                            "text": ""
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/person-3.png",
+                        "fa": "",
+                        "faColors": {"bg": "#FFD700", "fill": "#111"}
+                    },
+                    "dates": {
+                        "start": "",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://google.com" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "****",
+                            "text": ""
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/person-3.png",
+                        "fa": "",
+                        "faColors": {"bg": "#007396", "fill": "#EEE"}
+                    },
+                    "dates": {
+                        "start": "",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://google.com" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "****",
+                            "text": ""
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/person-3.png",
+                        "fa": "",
+                        "faColors": {"bg": "#47A248", "fill": "#EEE"}
+                    },
+                    "dates": {
+                        "start": "",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://google.com"}
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "****",
+                            "text": ""
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "awards",
+            "component": "ArticleThread",
+            "config": {},
+            "locales": {
+                "en": { "title": "Awards" }
+            },
+
+            "items": [
+                {
+                    "dates": {
+                        "start": "",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "****",
+                            "info": "",
+                            "text": ""
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "more_info", "href": "" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**** ",
+                            "info": "",
+                            "text": ""
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "****",
+                            "info": "",
+                            "text": ""
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "more_info", "href": "" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "****",
+                            "info": "",
+                            "text": ""
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

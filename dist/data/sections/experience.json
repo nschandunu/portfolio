@@ -1,0 +1,81 @@
+{
+    "locales": {
+        "en": {
+            "title": "Experience",
+            "title_long_prefix": "Summary of my",
+            "title_long": "**Work** Experience"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "work",
+            "component": "ArticleTimeline",
+            "config": {},
+            "locales": {},
+
+            "items": [
+
+                {
+                    "icon": {
+                        "img": "/public/images/pictures/place-3.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "02/24/2017",
+                        "end": "06/24/2022"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Content** Creator",
+                            "info": "inc.",
+                            "text": "",
+                            "tags": []
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "/public/images/pictures/place-7.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "04/24/2020",
+                        "end": "08/24/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Video Editor | **Fiverr ",
+                            "info": "ltd.",
+                            "text": "",
+                            "tags": ["FCP", "PR"]
+                        }
+                    }
+                },
+                
+                {
+                    "icon": {
+                        "img": "/public/images/pictures/place-1.png",
+                        "fa": "",
+                        "faColors": {"bg": "#111", "fill": "#EEE"}
+                    },
+                    "dates": {
+                        "start": "02/24/2025",
+                        "end": "now"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Assoc. Developer |** Dev. Subcommittee",
+                            "info": "IEEE Student Branch | NSBM",
+                            "text": "<p>Contributing to the development of innovative web solutions, collaborating with the team to create and maintain websites for various projects, with a focus on:</p> <ul><li>Building responsive and user-friendly websites</li><li>Implementing modern web technologies</li><li>Enhancing security and performance</li><li>Developing scalable systems for the IEEE community</li></ul> <p class='mt-3'>Together, we support IEEE's mission by advancing the technology landscape within the student branch.</p>",
+                            
+                            "tags": ["React", "NextJS"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
