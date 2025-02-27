@@ -1,0 +1,112 @@
+{
+    "locales": {
+        "en": {
+            "title": "Projects",
+            "title_long_prefix": "Take a look at",
+            "title_long": "My **Projects**"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "projects",
+            "component": "ArticlePortfolio",
+            "config": {},
+            "locales": {},
+
+            "categories": [
+                {
+                    "id": "apps",
+                    "locales": {
+                        "en": {"singular": "App", "plural": "Apps"}
+                    }
+                },
+                {
+                    "id": "websites",
+                    "locales": {
+                        "en": {"singular": "Website", "plural": "Web"}
+                    }
+                },
+                {
+                    "id": "utilities",
+                    "locales": {
+                        "en": {"singular": "Utility", "plural": "Utilities"}
+                    }
+                }
+            ],
+
+            "items": [
+                {
+                    "categoryId": "apps",
+                    "icon": {
+                        "img": "images/pictures/project-logo-1.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-apple", "href": "http://apps.apple.com"},
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/nschandunu/calculator.git"},
+                        {"faIcon": "fa-solid fa-link", "href": "https://nsc-calculator.netlify.app"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+                        "screenshots": {
+                            "aspectRatio": "16:9",
+                            "images": [
+                                "images/pictures/project-screenshot-1.png"
+                            ]
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "iOS Calculator",
+                            "text": "A simple <b>iOS calculator</b>, clone, offering basic arithmetic functions with an intuitive user interface.",
+                            "tags": ["iOS"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "images/pictures/project-logo-2.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/nschandunu/evostep-web.git"},
+                        {"faIcon": "fa-solid fa-link", "href": "http://evostep.store"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": "16:9",
+                            "images": [
+                                "images/pictures/project-screenshot-2.png",
+                                "images/pictures/project-screenshot-3.png",
+                                "images/pictures/project-screenshot-4.png",
+                                "images/pictures/project-screenshot-5.png",
+                                "images/pictures/project-screenshot-6.png",
+                                "images/pictures/project-screenshot-7.png",
+                                "images/pictures/project-screenshot-8.png"
+                            ]
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Evo Step",
+                            "text": "A PHP-based e-commerce website for a <b>Shoe Brand</b>, developed as part of a university assignment, featuring CRUD operations, user and admin authentication, and a responsive UI built with Tailwind CSS.",
+                            "tags": ["eCommerce", "Clothing", "NSBM"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

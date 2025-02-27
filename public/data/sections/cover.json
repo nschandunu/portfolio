@@ -1,0 +1,269 @@
+{
+    "locales": {
+        "en": {
+            "title": "Welcome!",
+            "title_menu": "About me",
+            "title_long_prefix": "Hello...",
+            "title_long": "I'm **Senuka Chandunu!**"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "contact_list",
+            "component": "ArticleGrid",
+            "config": {
+                "ignorePaddingTop": true,
+                "format": "inline"
+            },
+            "locales": {
+                "en": {}
+            },
+
+            "items": [
+                {
+                    "value": "Colombo – LK",
+                    "links": [
+                        {"href": null}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-city",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                },
+                {
+                    "value": "contact@nschandunu.com",
+                    "links": [
+                        {"href": "mailto:contact@nschandunu.com"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-envelope",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                },
+                {
+                    "value": "@nschandunu",
+                    "links": [
+                        {"href": "https://github.com/nschandunu"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-github",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "short_description",
+            "component": "ArticleInfoBlock",
+            "config": {},
+            "locales": {
+                "en": {"title": "**A little bit** about me..."}
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/svg/logo.svg",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"text": "<p>I’m a Computer Science student with experience in web and iOS development. I specialize in backend development using PHP and MySQL, and I’m expanding my expertise in frontend technologies like JavaScript, React, and Next.js. I’m also exploring C#, Swift, and the MERN stack.</p><p>I’m eager to contribute to projects and collaborate on new opportunities.</p><p>Looking forward to building something amazing together! Feel free to reach out.</p>"}
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "testimonials",
+            "component": "ArticleTestimonials",
+            "config": {},
+            "locales": {
+                "en": {"title": "Client **testimonials**"}
+            },
+
+            "items": [
+                {
+                    "value": "Lily Roberts",
+                    "links": [
+                        {"href": "https://linkedin.com"}
+                    ],
+                    "icon": {
+                        "img": "images/pictures/person-1.png",
+                        "fa": "fa-solid fa-user",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "info": "CEO at <b>ABC</b>",
+                            "text": "."
+                        }
+                    }
+                },
+
+                {
+                    "value": "James Anderson",
+                    "links": [
+                        {"href": "https://github.com"}
+                    ],
+                    "icon": {
+                        "img": "images/pictures/person-3.png",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "info": "Lead Developer at <b>ABC</b>",
+                            "text": "."
+                        }
+
+                    }
+                },
+
+                {
+                    "value": "Mitchael Harris",
+                    "links": [
+                        {"href": null}
+                    ],
+                    "icon": {
+                        "img": "images/pictures/person-2.png",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "info": "Managing Director at <b>ABC</b>",
+                            "text": "."
+                        }
+                    }
+                },
+
+                {
+                    "value": "Emma Clark",
+                    "links": [
+                        {"href": "https://google.com"}
+                    ],
+                    "icon": {
+                        "img": "images/pictures/person-4.png",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "info": "Creative Director at <b>ABC</b>",
+                            "text": "."
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "interests",
+            "component": "ArticleGrid",
+            "config": {
+                "format": "grid"
+            },
+            "locales": {
+                "en": {"title": "Personal **interests**"}
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-video",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Video Editing",
+                            "info": "Exploring creative editing techniques and AI-powered tools."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-chart-line",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Investing",
+                            "info": "Learning about stocks, crypto, and financial growth strategies."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-futbol",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Playing Football",
+                            "info": "Enjoying the game, improving skills, and staying active."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-creative-commons-sampling",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Content Creation",
+                            "info": "Producing engaging videos, graphics, and digital content."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-square-poll-horizontal",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Tech Trends",
+                            "info": "Staying updated on the latest advancements in AI, web development, and tools."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-business-time",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Business",
+                            "info": "Exploring entrepreneurship, marketing, and brand growth."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

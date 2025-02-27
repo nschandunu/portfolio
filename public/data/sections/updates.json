@@ -1,0 +1,158 @@
+{
+    "locales": {
+        "en": {
+            "title": "Life recently",
+            "title_menu": "Updates",
+            "title_long_prefix": "Take a look at my",
+            "title_long": "Recent **Updates**"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "fun_facts",
+            "component": "ArticleServices",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-tablet-screen-button",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "01",
+                            "info": "Apps published"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-file-signature",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "350+",
+                            "info": "Contributions on GitHub"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-diagram-project",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "10+",
+                            "info": "Projects"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-coffee",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "2,000",
+                            "info": "Coffees consumed"
+                        }
+                    }
+                },                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-blog",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "3",
+                            "info": "Blogs"
+                        }
+                    }
+                }
+
+            ]
+        },
+
+        {
+            "id": "updates",
+            "component": "ArticleThread",
+            "config": {},
+            "locales": {
+                "en": { "title": "My **Blogs**" }
+            },
+
+            "items": [
+                {
+                    "dates": {
+                        "start": "",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "**Test**",
+                            "text": ""
+                        }
+                    }
+                },
+
+                {
+                    "dates": {
+                        "start": "",
+                        "end": null
+                    },
+                    "links": [
+                        {"string": "see_more", "href": "https://youtube.com"}
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "Test2",
+                            "text": ""
+                        }
+                    }
+                },
+
+                {
+                    "dates": {
+                        "start": "",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "-",
+                            "text": ""
+                        }
+                    }
+                },
+
+                {
+                    "dates": {
+                        "start": "",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_more", "href": "https://google.com" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**-**",
+                            "text": ""
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

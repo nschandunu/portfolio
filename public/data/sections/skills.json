@@ -1,0 +1,499 @@
+{
+    "locales": {
+        "en": {
+            "title": "Skills",
+            "title_long_prefix": "Explore",
+            "title_long": "My **Skill Set**"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "capabilities",
+            "component": "ArticleCards",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-table-columns",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Web** Development",
+                            "text": "I can bring your best ideas into life!"
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-mobile-screen-button",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Application** Development",
+                            "text": "I can make creative and innovative apps!"
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-video",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Video** Editing",
+                            "text": "I create smooth & engaging edits!"
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-photo-film",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Content **Creation**",
+                            "text": "I make engaging videos!"
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-database",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Database** management",
+                            "text": "I can handle your data effectively!"
+                        }
+                    }
+                }
+            ]
+
+        },
+
+        {
+            "id": "backend_programming",
+            "component": "ArticleList",
+            "config": {},
+            "locales": {
+                "en": {"title": "Backend"}
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-node-js",
+                        "faColors": {"bg": "#339933", "fill": "#EEE"}
+                    },
+                    "value": 100,
+                    "dates": {
+                        "start": "12/01/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Node.js",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-python",
+                        "faColors": {"bg": "#306998", "fill": "#EEE"}
+                    },
+                    "value": 100,
+                    "dates": {
+                        "start": "12/01/2022"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Python 3.x",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-wind",
+                        "faColors": {"bg": "#06B6D4", "fill": "#EEE"}
+                    },
+                    "value": 100,
+                    "dates": {
+                        "start": "03/01/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Tailwind CSS",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-database",
+                        "faColors": {"bg": "#4479A1", "fill": "#EEE"}
+                    },
+                    "value": 100,
+                    "dates": {
+                        "start": "01/31/2022"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "MySQL",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-docker",
+                        "faColors": {"bg": "#2496ED", "fill": "#EEE"}
+                    },
+                    "value": 100,
+                    "dates": {
+                        "start": "08/08/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Docker",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-php",
+                        "faColors": {"bg": "#FFD700", "fill": "#111"}
+                    },
+                    "value": 100,
+                    "dates": {
+                        "start": "09/01/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "PHP",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                      "img": null,
+                      "fa": "fa-solid fa-code",
+                      "faColors": {"bg": "#512BD4", "fill": "#EEE"}
+                    },
+                    "value": 100,
+                    "dates": {
+                      "start": "01/10/2025"
+                    },
+                    "locales": {
+                      "en": {
+                        "title": "C# (.NET)",
+                        "info": null
+                      }
+                    }
+                  },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-server",
+                        "faColors": {"bg": "#47A248", "fill": "#EEE"}
+                    },
+                    "value": 100,
+                    "dates": {
+                        "start": "01/10/2025"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "MongoDB",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-git",
+                        "faColors": {"bg": "#F05032", "fill": "#111"}
+                    },
+                    "value": 100,
+                    "dates": {
+                        "start": "01/01/2021"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "GIT",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-cuttlefish",
+                        "faColors": {"bg": "#005C1D", "fill": "#EEE"}
+                    },
+                    "value": 100,
+                    "dates": {
+                        "start": "06/06/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "C",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-js",
+                        "faColors": {"bg": "#F7DF1E", "fill": "#111"}
+                    },
+                    "value": 100,
+                    "dates": {
+                        "start": "08/08/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "JavaScript ES6+",
+                            "info": null
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "front_end_programming",
+            "component": "ArticleList",
+            "config": {},
+            "locales": {
+                "en": {"title": "Frontend"}
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-html5",
+                        "faColors": {"bg": "#E34F26", "fill": "#EEE"}
+                    },
+                    "value": 100,
+                    "dates": {
+                        "start": "09/01/2019"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "HTML5",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-css3",
+                        "faColors": {"bg": "#1572B6", "fill": "#EEE"}
+                    },
+                    "value": 100,
+                    "dates": {
+                        "start": "01/15/2019"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "CSS3",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-react",
+                        "faColors": {"bg": "#000000", "fill": "#fff"}
+                    },
+                    "value": 100,
+                    "dates": {
+                        "start": "01/01/2025"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Next.js",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-react",
+                        "faColors": {"bg": "#61DAFB", "fill": "#111"}
+                    },
+                    "value": 100,
+                    "dates": {
+                        "start": "11/11/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "React",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-bootstrap",
+                        "faColors": {"bg": "#7952B3", "fill": "#EEE"}
+                    },
+                    "value": 100,
+                    "dates": {
+                        "start": "02/10/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Bootstrap",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-wind",
+                        "faColors": {"bg": "#06B6D4", "fill": "#EEE"}
+                    },
+                    "value": 100,
+                    "dates": {
+                        "start": "03/01/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Tailwind CSS",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-js",
+                        "faColors": {"bg": "#F7DF1E", "fill": "#111"}
+                    },
+                    "value": 100,
+                    "dates": {
+                        "start": "08/08/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "JavaScript ES6+",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-js-square",
+                        "faColors": {"bg": "#3178C6", "fill": "#fff"}
+                    },
+                    "value": 100,
+                    "dates": {
+                        "start": "06/01/2025"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "TypeScript",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-swift",
+                        "faColors": {"bg": "#F05138", "fill": "#fff"}
+                    },
+                    "value": 100,
+                    "dates": {
+                        "start": "01/20/2025"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Swift",
+                            "info": null
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "languages",
+            "component": "ArticleList",
+            "config": {},
+            "locales": {
+                "en": { "title": "Languages" }
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/flags/lk.png",
+                        "fa": null,
+                        "faColors": { "bg": null, "fill": null }
+                    },
+                    "value": null,
+                    "dates": { "start": null },
+                    "locales": {
+                        "en": {
+                            "title": "Sinhala",
+                            "info": "Native speaker of Sinhala with strong communication skills.",
+                            "tags": ["Native"]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/flags/en.png",
+                        "fa": null,
+                        "faColors": { "bg": null, "fill": null }
+                    },
+                    "value": null,
+                    "dates": { "start": null },
+                    "locales": {
+                        "en": {
+                            "title": "English",
+                            "info": "Fluent in English with strong communication and writing skills.",
+                            "tags": ["Fluent"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
