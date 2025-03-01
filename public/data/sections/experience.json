@@ -18,7 +18,7 @@
 
                 {
                     "icon": {
-                        "img": "/public/images/pictures/place-3.png",
+                        "img": "/images/pictures/place-3.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
@@ -37,7 +37,7 @@
                 },
                 {
                     "icon": {
-                        "img": "/public/images/pictures/place-7.png",
+                        "img": "/images/pictures/place-7.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
@@ -57,7 +57,7 @@
                 
                 {
                     "icon": {
-                        "img": "/public/images/pictures/place-1.png",
+                        "img": "/images/pictures/place-1.png",
                         "fa": "",
                         "faColors": {"bg": "#111", "fill": "#EEE"}
                     },
