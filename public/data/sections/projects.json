@@ -105,6 +105,102 @@
                             "tags": ["eCommerce", "Clothing", "NSBM"]
                         }
                     }
+                },
+
+                {
+                    "categoryId": "utilities",
+                    "icon": {
+                        "img": "images/pictures/project-logo-3.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/nschandunu/AI-Partner.git"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": "16:9",
+                            "images": [
+                                "images/pictures/project-screenshot-9.png"
+                            ]
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Virtual AI Partner",
+                            "text": "A virtual assistant application that interacts with users as a virtual girlfriend or boyfriend. The application uses speech recognition to understand user input and text-to-speech to respond, creating a conversational experience.",
+                            "tags": ["AI", "NSBM", "Python"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "images/pictures/project-logo-4.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/nschandunu/my-portfolio-site"},
+                        {"faIcon": "fa-solid fa-link", "href": "http://senuka-chandunu.netlify.app"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": "16:9",
+                            "images": [
+                                "images/pictures/project-screenshot-10.png",
+                                "images/pictures/project-screenshot-11.png",
+                                "images/pictures/project-screenshot-12.png"
+                            ]
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Portfolio v1",
+                            "text": "A simple portfolio with HTML, CSS & JS featuring my bio, projects, and basic interactivity.",
+                            "tags": ["Portfolio", "Web"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "images/pictures/project-logo-5.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/nschandunu/AI-Assistant.git"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": "16:9",
+                            "images": [
+                                "images/pictures/project-screenshot-13.png"
+                            ]
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Personal AI Assistant",
+                            "text": "Our interactive AI Chatbot, powered by the advanced Meta LLaMA-3.1-70B-Instruct model! 🚀 This chatbot is designed to engage users in meaningful conversations, answering questions and providing insights across a wide range of topics.",
+                            "tags": ["AI", "ChatBot"]
+                        }
+                    }
                 }
             ]
         }
