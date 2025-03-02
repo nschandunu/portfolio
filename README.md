@@ -14,17 +14,12 @@ Key features:
 
 ## [Live Preview](https://nschandunu.com/)
 
-### 1. Base layout
-The foundation features a fixed central view paired with a sleek left sidebar, optimized to adapt flawlessly across diverse monitor resolutions—from classic 4:3 to ultra-wide displays.
-
-![alt tag1](readme-assets/demo.png)
-
-### 2. Desktop Screenshots
+### 1. Desktop Layout
 Enjoy a seamless page-flipping transition effect when navigating via the sidebar. The toggleable sidebar enhances flexibility, expanding the content area for a wider, immersive viewing experience.
 
 ![alt tag1](readme-assets/desktop.png)
 
-### 3. Mobile Screenshots
+### 2. Mobile Layout
 On mobile devices, the layout intelligently reorganizes portfolio sections into categorized tabs, complemented by an intuitive bottom navigation for effortless browsing.
 
 ![alt tag1](readme-assets/mobile.png)
