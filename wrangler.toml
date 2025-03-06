@@ -1,5 +1,4 @@
 name = "portfolio"
 compatibility_date = "2025-03-04"
 
-main = "./src/main.jsx"
 pages_build_output_dir = "./dist"
