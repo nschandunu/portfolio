@@ -1,6 +1,5 @@
 name = "portfolio"
 compatibility_date = "2025-03-04"
 
-# Add these configurations:
 main = "./src/main.jsx"
-site = { bucket = "./dist" }
+pages_build_output_dir = "./dist"
