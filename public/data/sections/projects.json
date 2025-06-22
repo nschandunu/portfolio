@@ -52,7 +52,11 @@
                         "screenshots": {
                             "aspectRatio": "16:9",
                             "images": [
-                                ".png"
+                                "images/pictures/project-screenshot-14.png",
+                                "images/pictures/project-screenshot-15.png",
+                                "images/pictures/project-screenshot-16.png",
+                                "images/pictures/project-screenshot-17.png",
+                                "images/pictures/project-screenshot-18.png"
                             ]
                         }
                     },
