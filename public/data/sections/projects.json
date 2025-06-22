@@ -39,17 +39,16 @@
                 {
                     "categoryId": "utilities",
                     "icon": {
-                        "img": ".png",
+                        "img": "images/pictures/project-logo-6.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
 
                     "links": [
-                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/nschandunu/InventorySystem-CSharp"},
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/nschandunu/InventorySystem-CSharp"}
                     ],
 
                     "media": {
-                        // "youtubeVideo": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
                         "screenshots": {
                             "aspectRatio": "16:9",
                             "images": [
