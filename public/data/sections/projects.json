@@ -37,6 +37,38 @@
 
             "items": [
                 {
+                    "categoryId": "utilities",
+                    "icon": {
+                        "img": ".png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/nschandunu/InventorySystem-CSharp"},
+                    ],
+
+                    "media": {
+                        // "youtubeVideo": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+                        "screenshots": {
+                            "aspectRatio": "16:9",
+                            "images": [
+                                ".png"
+                            ]
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Inventory Management System",
+                            "text": "A <b>inventory management system</b> built with C# WinForms, featuring item tracking, stock updates, and a simple UI.",
+                            "tags": [".NET", "C#", "WinForms", "NSBM"]
+                        }
+                    }
+                },
+
+
+                {
                     "categoryId": "apps",
                     "icon": {
                         "img": "images/pictures/project-logo-1.png",
